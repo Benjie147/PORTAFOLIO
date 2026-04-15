@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Proyecto Módulo 1", layout="centered")
+st.set_page_config(page_title="PORTAFOLIO VICTOR RIVAS", layout="centered")
 
 if "actividades" not in st.session_state:
     st.session_state.actividades = []
